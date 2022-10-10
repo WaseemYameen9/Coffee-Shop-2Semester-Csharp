@@ -1,0 +1,4 @@
+tea,drink,30
+shake,drink,90
+paratha,food,60
+tapal,drink,30

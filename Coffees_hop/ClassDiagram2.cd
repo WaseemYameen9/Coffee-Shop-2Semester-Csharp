@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Coffees_hop.BL.CoffeeShop">
+    <Position X="3.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAABAAAAAAAAQAAAAAgAAAAEAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>BL\CoffeeShop.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coffees_hop.BL.MenuItem">
+    <Position X="6.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAABAAAAABAAARAFAABAAAAEAAAAAAA=</HashCode>
+      <FileName>BL\MenuItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coffees_hop.DL.CoffeeShopDL">
+    <Position X="3.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAgCAAABAAAgAAABgAAQAAAAAAA=</HashCode>
+      <FileName>DL\CoffeeShopDL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coffees_hop.DL.MenuItemDL">
+    <Position X="5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DL\MenuItemDL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coffees_hop.UI.CoffeeShopUI">
+    <Position X="6.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAAAAAAAIAAAIAAAAAAAEEAAEAAAAAA=</HashCode>
+      <FileName>UI\CoffeeShopUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coffees_hop.UI.MainMenuUI" Collapsed="true">
+    <Position X="7" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UI\MainMenuUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coffees_hop.UI.MenuItemUI">
+    <Position X="5.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UI\MenuItemUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
